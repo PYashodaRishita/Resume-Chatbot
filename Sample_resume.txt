@@ -1,0 +1,46 @@
+YASHODA RISHITA POTHUNURI
++1-518-496-5816 | rishita.yashoda@gmail.com | https://www.linkedin.com/in/yashoda-rishita-7536b8189/ |
+https://github.com/PYashodaRishita | Publication
+PROFESSIONAL SUMMARY	
+Analytical and detail-oriented Data Analyst with hands-on experience in building dashboards, performing data transformations, and delivering actionable insights in academic, public-sector, and corporate settings. Skilled in using SQL, Tableau, and Excel to query large datasets, design visually appealing dashboards, and support decision-making in finance and operations. Familiar with basic statistics, data storytelling, and collaborative analytics. Passionate about transforming complex datasets into accessible, meaningful visuals and reports that drive clarity and business impact.
+TECHNICAL SKILLS	
+Business Intelligence and Data Visualization Tools : Oracle Business Intelligence Enterprise Edition (OBIEE), Oracle Analytics Server (OAS), Oracle BI Publisher, PowerBI, Tableau, Crystal Reports, Oracle Data Visualization, Oracle RPD Development, Oracle Analytics Cloud (OAC), SQL Developer, Advanced Excel
+Data Reporting and Analytics : Report Creation, Automated Dashboard Development, Data Validation, Data Transformation, Analytical Support, Troubleshooting, Process Improvement, Workforce Analytics, People Analytics, Data Insights, Data collection Database Management and Analysis : MySQL, SQL, Oracle SQL Developer, Basic ODI, Databricks(Beginner), Microsoft Access, Operating Systems
+Programming Languages and Concepts : Java, SQL, Python, Data Structures, OOPs
+Microsoft Office Products : MS Excel, Powerpoint, Outlook, Sharepoint, Access, Word, Teams and Publisher
+EXPERIENCE	
+Business Intelligence Analyst(prev. Student Assistant) | NYS – Office of Information Technology Services  June 2023 – Present
+–	Dashboard Development and Optimization: Lead the creation, refinement, and enhancement of more than Fifty dashboards using Oracle Business Intelligence Enterprise Edition, Oracle Analytics Server and PowerBI to deliver advanced data visualization and reporting solutions to business and external stakeholders, the dashboards enabled critical
+decision-making processes to advance business objectives.
+–	Workforce and People Analytics: Supported data transformation initiative by developing data architecture to combine data from multiple sources for 250000 state employees; developed procedures to cleanse, transform and load data to an integrated database. Analyzed workforce metrics and budget allocations to uncover insights that informed HR strategies, optimized resource allocation, and enhanced organizational decision-making.
+–	Business Reporting and Analytic Delivery: Facilitated analytic initiatives in support of operational and quality projects that improved organizational efficiency, quantified by a 15% reduction in processing times. Successfully resolved customer issues with reports and exceeded customer satisfaction targets through proactive communication.
+–	Comprehensive Data Testing and KPI’s: Validated SQL queries to ensure data accuracy, enhancing reporting reliability by 20% and built related key performance indicators (KPIs) to measure, control, and benchmark reporting processes
+–	Advanced Reporting and Data Analysis: Designed and delivered detailed reports using VBA codes based on complex data analysis, providing actionable insights that align with organizational objectives and improving overall reporting efficiency by 10%.
+Graduate Data Analyst | University At Albany - Suny	Jan 2023 – Dec 2023
+–	Data Management and Reporting: Managed and analyzed student performance data for 40+ students, creating detailed reports using Tableau Desktop to improve decision-making for academic departments, resulting in a 25%improvement in reporting efficiency.
+–	Process Optimization: Streamlined assignment and test tracking systems using Tableau to enhance operational efficiency, ensuring accurate grading and alignment with university standards.
+–	Stakeholder Collaboration: Collaborated with faculty and academic staff to track student progress, identify performance trends, and implement targeted strategies to address learning gaps for 10+ students.
+E-Learning Data Analyst | Tata Consultancy Services -Hyderabad, INDIA	Jun 2021 – Aug 2022
+–	Data-Driven Course Management: Managed and maintained a repository of 500+ E-learning courses for DOW Chemical Company, ensuring seamless updates and efficient content delivery using Lectora 21.
+–	Content Optimization: Analyzed courses using PowerBI and edited course content to align with brand standards, achieving a 10% improvement in accuracy and consistency while enhancing user engagement.
+–	Process Automation: Designed and implemented automated quality testing procedures, reducing testing time by 25 hours monthly and expediting course update cycles.
+–	Stakeholder Insights : Presented insights to 10+ stakeholders including functional heads through Powerpoint and Excel(VBA charts) enabling actionable decisions that aligned organizational goals.
+Software Development Intern  | Shiash info solutions private limited -Chennai, INDIA	Jan 2021 – May 2021
+–	Data Processing and Analysis: Contributed to the "Therapeutic Tolerant Care" project by implementing Java-based data processing modules and exploring IoT data integration for healthcare applications. Applied object-oriented programming (OOP) using Java to develop healthcare analytics firmware.
+–	System Design and Optimization: Developed firmware to support embedded system functionalities, enhancing data flow and operational efficiency within the project.
+–	Quality Assurance: Coordinated testing and validation procedures to ensure accuracy, reliability, and alignment with project requirements, improving system performance.
+EDUCATION	
+University At Albany	MS in Information Science- Data Analytics | GPA : 3.740	August 2022 – May 2024
+Scholarship | Recipient of Dean’s Merit Scholarship
+Courses Undertaken : Analysis Visualization and Predictive Modeling, Database Systems and Data Analysis, Geographic Information Systems(Familiarity with Esri ArcGIS concepts and NYC Open Data platforms), Predictive Modeling, Introduction to Theory of Statistics, Research Methods
+VIT-AP University, INDIA	B.Tech in Electronics and Communications Engineering | GPA : 3.23	July 2017 – June 2021
+Courses Undertaken : Data Acquisition, Neural Networks and Fuzzy Systems, Probability and Statistics, Problem Solving using Java, Java for beginners, Database Management, Introduction to Business Communications, Digital advertising - Familiarity with concepts such as ROI, CTR, CPM and demand-supply analytics, Data Structures and Algorithms, Artificial Intelligence for beginners, Investment Analysis and Portfolio Management.
+LEADERSHIP EXPERIENCE	
+School People Leader(Head Girl) | Delhi Public School	Nov 2013 – Apr 2015
+Contingent Leader at State Parade | Bokaro, Jharkhand	Aug 2014
+VOLUNTEER EXPERIENCE	
+Community Lead at Developer Student Clubs VIT-AP | VIT-AP University	Jan 2019 – Jan 2020
+Event Organizer at Google Developers Group VIT-AP | VIT-AP University	Jan 2018 – Dec 2019
+AWARDS	
+Best Paper Award | Issued by ICSCC 2021- IEEE	July 2021
+–	Wireless Programmable Healthy Neural Stimulator Prototype

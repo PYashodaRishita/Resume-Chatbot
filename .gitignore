@@ -1,0 +1,5 @@
+bash
+CopyEdit
+.env
+venv/
+__pycache__/
